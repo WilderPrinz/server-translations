@@ -1,5 +1,5 @@
 ACCOUNT_INFO_BAD_ID: Falscher Account Login.
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich in Bearbeitung.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
@@ -637,7 +637,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Du kannst keinen Laden während eines Raid öffne
 SHOP_INFO_OPEN: Der Laden wurde geöffnet!
 SHOP_INFO_TARGET_MAX_GOLD: Der Spieler hat die maximale Goldmenge erreicht.
 SHOP_LOG_SELL_ITEM_VALID: Transaktion erfolgreich
-SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Du hast bereits diese Fähigkeit erlernt.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Du kannst diese Fähigkeit nicht zurückgeben!
