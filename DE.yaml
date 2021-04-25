@@ -133,24 +133,24 @@ FAMILY_INFO_NOT_IN_FAMILY: Du bist in keiner Familie!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Dieser Spieler muss Vertreter sein!
 FAMILY_INFO_USED_DAILY_MESSAGE: Tägliche Nachricht bereits verwendet.
-FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
-FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
-FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Du kannst diesen Gegenstand nicht ins Familienwarenhaus tun!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Du hast nicht die nötigen Rechte um das zu tun.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetaucht. Bitte versuche es später wieder.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Du brauchst das vorherige Upgrade um das zu kaufen.
 FAMILY_RANK_DEPUTY: Vertreter
 FAMILY_RANK_HEAD: Oberhaupt
 FAMILY_RANK_KEEPER: Verwalter
 FAMILY_RANK_MEMBER: Mitglied
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Die Familie gehört bereits dieser Fraktion an!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten um einer Familie beizutreten.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Familienoberhaupt gewechselt.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Die Familie '{0}' wurde gegründet!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht gewechselt!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Die Familie hat Stufe {0} erreicht!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
+FAMILYARENA_INFO_ASK_ENTER: Möchtest du in die Familienarena hineintreten? Es wird dich {0} Gold kosten.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ist nun im Spiel.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat das Spiel beendet.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Willst du ein Freund von {0} werden?
@@ -195,7 +195,7 @@ GROUP_INFO_NEW_LEADER: Du bist der neue Teamleiter!
 GROUP_INFO_REQUEST: Gruppenanfrage an {0} gesendet.
 GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
 GROUP_SHOUTMESSAGE_CLOSED: Gruppe aufgelöst.
-GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} hat den Rückkehrspunkt geändert.
 GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
