@@ -29,7 +29,7 @@ ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Du hast bereits bereits eine 'Cuarry Bank Debit Card' in deinem Inventar.
 BANK_DIALOG_ASK_DEPOSIT: Willst du {0}000 Gold einzahlen?
 BANK_DIALOG_ASK_WITHDRAW: Willst du {0}000 Gold von der Bank abheben?
-BANK_INFO_NOT_ENOUGH_FUNDS: Nicht ausreichend Gold.
+BANK_INFO_NOT_ENOUGH_FUNDS: Nicht genügend Gold.
 BANK_INFO_TOO_MUCH_GOLD: Du hast zu viel Gold!
 BANK_LOG_OPEN_BANK: Willkommen in der Bank! Wie kann ich dir behilflich sein?
 BANK_LOG_WITHDRAW_BANK: '{0}000 Gold abgehoben.'
